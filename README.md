@@ -1,2 +1,2 @@
-# Kaggle
-Data analysis challenges using Kaggle datasets
+# Lending Club Default Prediction
+Data analysis challenge
